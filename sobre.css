@@ -1,0 +1,20 @@
+.sobre__conteudo {
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+}
+
+.sobre__titulo {
+  margin: 1em;
+  font-size: 20px;
+}
+.sobre__texto {
+  color: var(--cor-terciaria);
+}
+.sobre__image {
+  width: 100px;
+  border-radius: 50%;
+  text-align: center;
+  padding: 2em;
+  margin: auto;
+}
